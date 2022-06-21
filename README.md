@@ -1,11 +1,6 @@
-							# Hi!👋 I’m Srishti Rai
-						## Data Analytics | Data Science Enthusiast
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi!👋 I’m Srishti Rai
+## Upcoming Data Analyst | Data Science Enthusiast
+- 👀 I’m interested in building ML models to improve business analytics
+- 📫 How to reach me : email - srishti07rai@gmail.com
+- :snowflake: Reach out to me on LinkedIn : https://www.linkedin.com/in/srishti-rai/
 
-<!---
-SrishtiiRaii/SrishtiiRaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
